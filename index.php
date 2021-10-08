@@ -1,6 +1,11 @@
 
 <?php
 
+
+
+
+$var1="";
+
 // Mostra todas as informações, usa o padrão INFO_ALL
 //phpinfo();
 
